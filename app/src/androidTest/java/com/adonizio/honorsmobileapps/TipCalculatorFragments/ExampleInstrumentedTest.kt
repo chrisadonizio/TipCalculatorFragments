@@ -1,4 +1,4 @@
-package com.adonizio.honorsmobileapps.uilab
+package com.adonizio.honorsmobileapps.TipCalculatorFragments
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
